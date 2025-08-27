@@ -107,18 +107,4 @@ Six models were trained and evaluated using 10-fold cross-validation and `GridSe
 This project was developed by **Group 5** of the **DAB 304 Healthcare Analytics** course at **St. Clair College**, Windsor, Canada.  
 Special thanks to the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records) for the dataset and to all team members for their contributions.
 
----
 
-## 📂 Repository Structure
-
-```bash
-├── data/
-│   └── heart_failure_clinical_records_dataset.csv
-├── notebooks/
-│   └── heart_failure_analysis.ipynb
-├── models/
-│   └── trained_models.pkl
-├── results/
-│   └── performance_metrics.csv
-├── README.md
-└── requirements.txt
